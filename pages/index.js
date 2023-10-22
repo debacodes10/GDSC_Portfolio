@@ -17,6 +17,8 @@ const index = () => {
             <p class="text-sm font-medium"><b>Github:</b> <a href="https://github.com/debacodes10">
               <u>www.github.com/debacodes10</u></a></p>
             <p class="text-sm font-medium"><b>Contact:</b> +91 62904 84287</p>
+            <p class="text-sm font-medium"><b>Github - This website: </b>
+            <a href='https://github.com/debacodes10/GDSC_Portfolio'><u>Link</u></a></p>
           </div>
         <Image src="/pfpedited.jpg" className='profile_img' height={100} width={100} alt='Profile Picture'/>
         </div>
